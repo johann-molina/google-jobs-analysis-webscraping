@@ -45,3 +45,4 @@ def scrape_google_job() -> None:
             browser.close()
 
 scrape_google_job()
+2+2
